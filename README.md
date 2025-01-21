@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingPotatoes
-- 👀 I’m interested in Coding random fun projects
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Coding Robots
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on my own projects with friends
 - 📫 How to reach me @ me on twitter @lilpotatoguy
 
